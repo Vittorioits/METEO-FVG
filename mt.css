@@ -3,21 +3,20 @@ h1{
     margin: 1px 1px 40px 1px;
     left: 44%;
     font-style: italic;
-    color: brown ;
+    color: rgb(93, 68, 174);
 }
 
 table{
 border-collapse:separate;
 left: 34%;
 top: 20%;
-
 }
 
 td, th{
     border: 2px solid;
     padding: 20px;
     background-color: rgb(109, 70, 169);
-    border-color: brown;
+    border-color: rgb(116, 46, 6);
     text-align: center;
 }
 
