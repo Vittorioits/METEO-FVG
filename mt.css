@@ -10,7 +10,6 @@ table{
 border-collapse:separate;
 left: 34%;
 top: 20%;
-
 }
 
 td, th{
@@ -22,7 +21,7 @@ td, th{
 }
 
 body{
-    background-color: rgb(221, 198, 149);
+    background-color: rgb(28, 61, 25);
 }
 
 .titoli {
