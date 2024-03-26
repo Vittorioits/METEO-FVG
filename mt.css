@@ -3,7 +3,7 @@ h1{
     margin: 1px 1px 40px 1px;
     left: 44%;
     font-style: italic;
-    color: brown ;
+    color: rgb(244, 235, 242) ;
 }
 
 table{
@@ -16,13 +16,13 @@ top: 20%;
 td, th{
     border: 2px solid;
     padding: 20px;
-    background-color: rgb(109, 70, 169);
+    background-color: rgb(120, 193, 233);
     border-color: brown;
     text-align: center;
 }
 
 body{
-    background-color: rgb(221, 198, 149);
+    background-color: rgb(250, 133, 250);
 }
 
 .titoli {
